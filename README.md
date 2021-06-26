@@ -1,2 +1,2 @@
-# to-do-list-with-js
-To-do list utilizando HTML, CSS e Javascript, utilizando conceitos de manipulação de DOM
+# To-do list with JS
+To-do list using HTML, CSS and Javascript, using DOM.
